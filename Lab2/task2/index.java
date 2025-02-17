@@ -8,6 +8,7 @@ public static void main (String[] args) {
     String substring = "ITI";
 
     while(str.indexof(index , substring) !=-1) {
+        
         count ++;
         index ++;
     }
